@@ -41,6 +41,19 @@ The objective of this project is to analyze customer loan data using SQL and ide
 
 ---
 
+# 📁 Dataset Information
+
+The dataset contains customer loan-related information such as:
+
+- Customer demographics
+- Credit score
+- Annual income
+- Monthly installment
+- Employment status
+- Loan default details
+
+---
+
 # 📊 SQL Concepts Used
 
 - CASE Statement
@@ -92,7 +105,7 @@ ORDER BY Avg_Credit_Score DESC;
 
 ---
 
-## 📷 Output Screenshot
+## 📷 Query Output
 
 <img width="900" alt="Credit Score Analysis" src="bank_loan_output1.png">
 
@@ -137,7 +150,7 @@ ORDER BY EMI_Burden_Percentage DESC;
 
 ---
 
-## 📷 Output Screenshot
+## 📷 Query Output
 
 <img width="900" alt="EMI Burden Analysis" src="bank_loan_output2.png">
 
@@ -181,7 +194,7 @@ ORDER BY Default_Rate_Percentage DESC;
 
 ---
 
-## 📷 Output Screenshot
+## 📷 Query Output
 
 <img width="900" alt="Default Rate Analysis" src="bank_loan_output3.png">
 
@@ -192,6 +205,17 @@ ORDER BY Default_Rate_Percentage DESC;
 - Certain employment categories contribute more heavily to loan defaults.
 - Employment stability directly impacts repayment behavior.
 - This analysis helps banks improve lending decisions and risk profiling.
+
+---
+
+# 📈 Business Impact
+
+This analysis can help financial institutions:
+
+- Identify high-risk borrowers
+- Improve loan approval decisions
+- Reduce loan default probability
+- Enhance customer risk profiling
 
 ---
 
