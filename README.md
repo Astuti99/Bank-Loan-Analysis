@@ -54,6 +54,55 @@ The dataset contains customer loan-related information such as:
 
 ---
 
+## 🏗️ Project Workflow
+
+1. Data Collection  
+2. Data Cleaning  
+3. Database Creation  
+4. SQL Query Analysis  
+5. Business Insights Generation  
+6. Risk Analysis & Reporting
+
+---
+
+## 🗂️ Table Structure
+
+| Column Name | Description |
+|-------------|-------------|
+| Customer_ID | Unique customer identifier |
+| Age | Customer age |
+| Annual_Income | Annual income of customer |
+| Credit_Score | Customer credit score |
+| Monthly_Installment | EMI amount |
+| Employment_Status | Employment category |
+| Defaulted | Loan default status |
+
+---
+
+## 📈 Key Performance Indicators (KPIs)
+
+- Average Credit Score
+- Default Rate Percentage
+- EMI Burden Ratio
+- High-Risk Customer Count
+- Employment-wise Default Distribution
+
+---
+
+## 📊 Advanced SQL Concepts Used
+
+- Aggregate Functions
+- CASE Statements
+- Subqueries
+- Conditional Filtering
+- Data Segmentation
+- GROUP BY & HAVING
+- ORDER BY
+- Business KPI Calculations
+- Financial Risk Analysis
+
+---
+
 # 📊 SQL Concepts Used
 
 - CASE Statement
