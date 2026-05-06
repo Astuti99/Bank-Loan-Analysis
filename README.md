@@ -17,6 +17,15 @@ The project helps financial institutions improve:
 
 ---
 
+# 🎯 Project Objective
+
+The objective of this project is to analyze customer loan data using SQL and identify patterns related to:
+
+- Credit behavior
+- EMI burden
+- Loan default risk
+- Employment-based financial trends
+
 # 🛠️ Tools & Technologies Used
 
 - SQL
@@ -89,7 +98,7 @@ ORDER BY Avg_Credit_Score DESC;
 
 ---
 
-## 📈 Business Insights
+## 📈 Key Insights
 
 - Customers aged between 41–60 have comparatively stronger credit scores.
 - Higher credit scores indicate better repayment capability.
@@ -210,45 +219,20 @@ The project identifies risky borrowers and provides meaningful insights for bett
 
 ---
 
-# 🙋 Interview Questions & Answers
+# 📚 Key Learnings
 
-## Q1. Why did you use CASE statement?
+- Improved SQL query writing skills
+- Learned customer risk analysis
+- Performed financial data analysis
+- Used aggregate functions for business reporting
+- Generated actionable business insights
 
-**Answer:**  
-CASE statement is used to categorize continuous values like age into meaningful business groups.
-
----
-
-## Q2. Why is GROUP BY important?
-
-**Answer:**  
-GROUP BY is used to summarize data for each category while applying aggregate functions like AVG() and SUM().
-
----
-
-## Q3. Why did you use ROUND() function?
-
-**Answer:**  
-ROUND() improves readability by limiting decimal values in financial calculations.
-
----
-
-## Q4. What is EMI burden analysis?
-
-**Answer:**  
-EMI burden analysis identifies customers whose loan repayment amount is too high compared to their income.
-
----
-
-## Q5. What business value does this project provide?
-
-**Answer:**  
-This project helps banks identify risky borrowers, reduce loan defaults, and improve decision-making.
-
----
 
 # 👩‍💻 Author
 
 ## Astuti
 
 SQL | Power BI | Python | Excel | Data Analytics Enthusiast
+
+---
+⭐ If you found this project useful, feel free to explore the repository.
