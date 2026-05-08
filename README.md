@@ -1,6 +1,6 @@
 #  Bank Loan Analysis Using SQL
 
-## 📌 Project Overview
+##  Project Overview
 This project focuses on analyzing bank loan data using SQL queries to extract meaningful business insights related to customer credit scores, loan approvals, default rates, income analysis, and repayment behavior.
 
 ---
